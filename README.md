@@ -1,7 +1,7 @@
 ## Yanis Boufroukh
 
-Étudiant à CESI. Je développe des applications que j'utilise au quotidien —
-simples, rapides, qui règlent un problème précis et qui tournent vraiment.
+Je développe des applications que j'utilise au quotidien — simples, rapides,
+qui règlent un problème précis et qui tournent vraiment.
 
 ### Projets
 
