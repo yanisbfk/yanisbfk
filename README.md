@@ -1,6 +1,6 @@
 ## Yanis Boufroukh
 
-Je développe des applications que j'utilise au quotidien — simples, rapides,
+Je développe des applications que j'utilise au quotidien simples, rapides,
 qui règlent un problème précis et qui tournent vraiment.
 
 ### Projets
@@ -29,6 +29,6 @@ par Groq Whisper, audio encodé en Opus pour tenir sur une connexion faible.
 ### Comment je travaille
 
 Des interfaces sobres et du code qui va droit au but. Sur les deux applications
-web, les règles de sécurité Firestore sont testées sur émulateur — pas seulement
-écrites — et les tests tournent à chaque commit. Les trois projets ont une
+web, les règles de sécurité Firestore sont testées sur émulateur pas seulement
+écrites et les tests tournent à chaque commit. Les trois projets ont une
 intégration continue qui casse la build si quelque chose ne passe plus.
